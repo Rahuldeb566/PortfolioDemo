@@ -8,29 +8,29 @@ export default function Works() {
         {
             id: "1",
             icon: "./assets/mobile.png",
-            title: "Web Design",
+            title: "React Web App",
             desc:
-              "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+              "Amazon clone website. Add cart, cart total, remove fom cart, process paymet and store payment and buying history. ",
             img:
-              "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
+              "https://cdn.vox-cdn.com/thumbor/o6rdvEq_4wlltk5Sp9taNpMS1H0=/0x0:1010x673/920x613/filters:focal(0x0:1010x673):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/45176182/Screen_Shot_2015-01-07_at_11.05.22_PM.0.0.png",
           },
           {
             id: "2",
             icon: "./assets/globe.png",
-            title: "Mobile Application",
+            title: "Netflix Clone",
             desc:
-              "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "Netflix clone web page using TMDB Api.",
             img:
-              "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
+              "https://i.pcmag.com/imagery/articles/06DXdZyIU3yVY6UcFq3geED-3.fit_lim.size_1600x900.v1647536961.png",
           },
           {
             id: "3",
             icon: "./assets/writing.png",
-            title: "Branding",
+            title: "SpotifyClone",
             desc:
-              "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "Spotify clone using spotify api.",
             img:
-              "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
+              "https://www.musicianwave.com/wp-content/uploads/2020/09/Spotify-web-player-788x462.jpg",
           },
     ];
 
@@ -56,7 +56,7 @@ export default function Works() {
                             </div>
                         </div>
                         <div className="right">
-                            <img src="https://images.unsplash.com/photo-1573160059602-81357cdd480f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bG9uZ3xlbnwwfHwwfHw%3D&w=1000&q=80" alt="" />
+                            <img src={d.img} alt="" />
 
                         </div>
                     </div>
