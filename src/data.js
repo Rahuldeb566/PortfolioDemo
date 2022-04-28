@@ -3,7 +3,7 @@ export const featuredPortfolio = [
       id: 1,
       title: "Social Media App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.dribbble.com/users/808342/screenshots/14930079/media/56de2ce055bbdbf7ec8a0515c6489448.jpg?compress=1&resize=400x300",
     },
     {
       id: 2,
@@ -77,37 +77,37 @@ export const featuredPortfolio = [
       id: 1,
       title: "Design Social Media App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://cdn.mos.cms.futurecdn.net/6J8riT32EkrhW9NYfE5oyK.jpg",
     },
     {
       id: 2,
       title: "Design Rampa UI Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://colorlib.com/cdn-cgi/image/width=388,height=306,quality=80,format=auto,onerror=redirect,metadata=none/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp/wp-content/uploads/sites/2/saita-colorlib-template.jpg",
     },
     {
       id: 3,
       title: "Design E-commerce Web Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://themefisher.com/wp-content/uploads/edd/2019/04/bexer-bootstrap-business-template.jpg",
     },
     {
       id: 4,
       title: "Design Relax Mobile App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://colorlib.com/cdn-cgi/image/width=388,height=306,quality=80,format=auto,onerror=redirect,metadata=none/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp/wp-content/uploads/sites/2/atomic-free-template.jpg",
     },
     {
       id: 5,
       title: "Design Keser Web Design",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://colorlib.com/cdn-cgi/image/width=353,height=278,quality=80,format=auto,onerror=redirect,metadata=none/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp/wp-content/uploads/sites/2/medex-free-template.jpg",
     },
     {
       id: 6,
       title: "Design Banking App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://themeforest.img.customer.envatousercontent.com/files/389884023/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=1773190d77110e5b52496674206ed6f3",
     },
   ];
   
